@@ -5,8 +5,7 @@ This repository contains my solutions to Golang tutorial tasks. Each task has it
 ## Tasks
 
 - [Task 01](https://github.com/AvishiGan/golang-tutorials/tree/main/task_01): Task 01 contains the basics of Golang, variables, and constants, methods, and functions.
-- [Task 02](https://github.com/AvishiGan/golang-tutorials/tree/main/task_02)): Task 02 contains lists and slices and maps.
-- ...
+- [Task 02](https://github.com/AvishiGan/golang-tutorials/tree/main/task_02): Task 02 contains lists and slices and maps.
 
 ## Additional Resources
 
